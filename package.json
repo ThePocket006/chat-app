@@ -1,0 +1,27 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Chat application in client-server mode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThePocket006/chat-app.git"
+  },
+  "keywords": [
+    "chat",
+    "vue",
+    "vuejs",
+    "client",
+    "server",
+    "socket"
+  ],
+  "author": "The Pk Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThePocket006/chat-app/issues"
+  },
+  "homepage": "https://github.com/ThePocket006/chat-app#readme"
+}
